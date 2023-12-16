@@ -38,7 +38,7 @@
 - [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	In-depth comprehension of Sales & Finance Reports, translating complex business requirements into actionable insights.
+- [x]	Crafting user-centric reports with a thoughtful focus on empathy.
+- [x]	Fine-tuning and optimizing report generation through meticulous attention to detail.
+- [x]	Formulating a systematic approach to develop a comprehensive report-building plan.
