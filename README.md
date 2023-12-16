@@ -7,11 +7,11 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** Empower businesses to monitor, evaluate, and optimize sales activities and performance for strategic decision-making.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing sales data:** Identify and analyze sales patterns, tracking key performance indicators (KPIs) for informed decision-making.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of reports:** Determine optimal customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities, particularly in promising countries, through strategic analysis.
 
 
 ## Finance Report :
@@ -22,11 +22,11 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of sales analytics:** Evaluate financial performance, facilitate informed decision-making, and enhance communication with stakeholders for strategic business insights.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analyzing Finance data:** Facilitate benchmarking against industry peers and past periods, serving as a foundation for robust budgeting and forecasting practices.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Align financial planning with strategic goals and instill confidence in the organization's financial outlook through effective communication.
 
 
 ## Technical & Soft Skills:
